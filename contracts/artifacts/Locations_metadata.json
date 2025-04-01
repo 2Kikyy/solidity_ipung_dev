@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "iniFungsi",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Location.sol": "Locations"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Location.sol": {
+			"keccak256": "0xabc3d97992509310084ecc7a5da90cb4df7c811807be97331d9cca482dbde321",
+			"urls": [
+				"bzz-raw://bdc21af474001ab0030471dc333c5f11d542f6a4cb4332c2a4a7e04ff5981e5e",
+				"dweb:/ipfs/QmQM9z6ccd73LtrsrANMgmTvpebVCNMTWLmQgLgv1R9kch"
+			]
+		}
+	},
+	"version": 1
+}
